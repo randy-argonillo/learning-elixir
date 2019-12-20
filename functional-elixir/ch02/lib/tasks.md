@@ -1,0 +1,2 @@
+[ ] Learn Elixir 
+[ ] Learn Phoenix 
